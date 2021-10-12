@@ -3,6 +3,15 @@ import os, time
 game_list=['Rock','Paper','Scissors']
 computer=c=0
 command=p=0
+def clear():
+    name = os.name
+    # for windows
+    if name == 'nt':
+        _ = os.system('cls')
+    # for mac and linux(here, os.name is 'posix')
+    else:
+        os.system('clear')
+clear()
 x="""\033[1;32;40m\n                                                                                                                                                                                                  
 ╔═══╗╔═══╗╔═══╗╔╗╔═╗    ╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗    ╔═══╗╔═══╗╔══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗
 ║╔═╗║║╔═╗║║╔═╗║║║║╔╝    ║╔═╗║║╔═╗║║╔═╗║║╔══╝║╔═╗║    ║╔═╗║║╔═╗║╚╣╠╝║╔═╗║║╔═╗║║╔═╗║║╔═╗║║╔═╗║
