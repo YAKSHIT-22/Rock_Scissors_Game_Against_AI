@@ -7,7 +7,7 @@
 <ul>
 <li>git clone https://github.com/YAKSHIT-22/Rock_Scissors_Game_Against_AI</li>
 <li>cd Rock_Scissors_Game_Against_AI</li>
-<li>./rock_scissors_game.py</li>
+<li>./rock_scissors_game.py or python3 rock_scissors_game.py</li>
 </ul></h3>
 😀
 <br>
