@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="60%" src="th.jpg" height="175px"/></a>
+<a href="#"><img width="100%" src="th.jpg" height="300px"/></a>
 <h2 align="center">😄፠R፠O፠C፠K፠ ፠P፠A፠P፠E፠R፠ ፠S፠C፠I፠S፠S፠O፠R፠S፠😃</h2>
 <h3 align="center">😎This Is An Rock_Scissors_Game_Against_AI🤖</h3>
 <br>
