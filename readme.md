@@ -3,13 +3,13 @@
 <h3 align="center">😎This Is An Rock_Scissors_Game_Against_AI🤖</h3>
 <br>
 <p align="center">
-<h3>Usage😁:-
+<h3>Usage😁:-</h3>
 <ul>
 <li>git clone https://github.com/YAKSHIT-22/Rock_Scissors_Game_Against_AI</li>
 <li>cd Rock_Scissors_Game_Against_AI</li>
 <li>./rock_scissors_game.py or python3 rock_scissors_game.py</li>
-</ul></h3>
-😀
+</ul>
+
 <br>
 </p>
 <h2>Feel Free To Play This Game.(●'◡'●) And Please Support Me By Giving Star..🎇</h2>
